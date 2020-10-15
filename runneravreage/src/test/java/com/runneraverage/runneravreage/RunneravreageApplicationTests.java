@@ -1,0 +1,13 @@
+package com.runneraverage.runneravreage;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RunneravreageApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
